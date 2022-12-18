@@ -4,7 +4,9 @@ A fabric modpack base which add some satifying stuff, decoration blocks and new 
 
 [📜Mod List](MODLIST.md) | [🧋Support Me](https://ko-fi.com/DoggoNako)
 
-<img alt="Discord Link" height="36" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg">
+<a href="https://discord.com/invite/xWJJzDbvXr">
+  <img alt="Discord Link" height="36" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg">
+</a>   
 
 ## Downloads
 
